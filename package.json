@@ -1,0 +1,19 @@
+{
+  "name": "Test_React",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Borsuk",
+  "license": "ISC",
+  "dependencies": {
+    "react": "~15.2.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "~1.14.1",
+    "webpack": "~1.13.1",
+    "jsx-loader": "~0.13.2"
+  }
+}
